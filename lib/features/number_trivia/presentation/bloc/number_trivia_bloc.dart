@@ -13,7 +13,5 @@ class NumberTriviaBloc extends Bloc<NumberTriviaEvent, NumberTriviaState> {
   @override
   Stream<NumberTriviaState> mapEventToState(
     NumberTriviaEvent event,
-  ) async* {
-    // TODO: implement mapEventToState
-  }
+  ) async* {}
 }
