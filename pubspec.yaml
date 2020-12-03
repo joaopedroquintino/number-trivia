@@ -15,9 +15,9 @@ dependencies:
   flutter_bloc: ^4.0.0
   shared_preferences: ^0.5.7+3
   http: ^0.12.1
-  connectivity: ^0.4.8+6
   dartz: ^0.9.1
   get_it: ^4.0.2
+  data_connection_checker: ^0.3.4
 
 dev_dependencies:
   flutter_test:
@@ -44,4 +44,3 @@ flutter:
   #       - asset: fonts/TrajanPro.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
-
