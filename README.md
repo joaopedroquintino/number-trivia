@@ -19,6 +19,10 @@ A stack de ferramentas utilizadas no desenvolvimento deste app é:
 - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
 ### Armazenamento local (Cache)
 - [shared_preferences](https://pub.dev/packages/shared_preferences)
+### Outras ferramentas utilizadas
+- [dartz](https://pub.dev/packages/dartz)
+- [equatable](https://pub.dev/packages/equatable)
+- [data_connection_checker](https://pub.dev/packages/data_connection_checker)
 ## Estrutura de pastas
 Para manter a organização do projeto foi utilizada uma estrutura de pastas baseada na estrutura do Clean Architecture. Abaixo é possível ver um exemplo:
 
