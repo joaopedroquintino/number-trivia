@@ -6,6 +6,8 @@ Este é um app de fatos interessantes sobre números. Nele, o usuário insere um
 ## Considerações
 Este app foi desenvolvido seguindo este [curso de TDD e Clean Architecture](https://resocoder.com/flutter-clean-architecture-tdd/) do Reso Coder.<br>
 O desenvolvimento deste app utiliza os princípios de TDD e Clean Architecture.
+## Screenshots
+<img src="https://user-images.githubusercontent.com/26966332/100947628-c8bdc580-34e4-11eb-9bcc-f6fe4b0f7495.jpeg" width="250"/> <img src="https://user-images.githubusercontent.com/26966332/100947631-c9eef280-34e4-11eb-8777-226a492538a7.jpeg" width="250"/>
 
 ## Stack
 
