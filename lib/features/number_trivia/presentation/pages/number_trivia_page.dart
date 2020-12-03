@@ -8,11 +8,16 @@ import '../widgets/widgets.dart';
 class NumberTriviaPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Number Trivia'),
-      ),
-      body: SingleChildScrollView(child: _buildBody(context)),
+    return GestureDetector(
+      onTap: () {
+        FocusScope.of(context).unfocus();
+      },
+      behavior: HitTestBehavior.translucent,
+      child: Scaffold(
+          appBar: AppBar(
+            title: Text('Number Trivia'),
+          ),
+          body: SingleChildScrollView(child: _buildBody(context))),
     );
   }
 
